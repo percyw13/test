@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+}
+
+main li{
+    border-radius:50%;
+    width: 7rem;
+    height: 7rem;
+    border:2px solid #ffffff; 
+    list-style: none;
+    background-color: silver;
+    color: #000000;
+}
+main p{
+    padding: 2rem 3rem;
+}
+
+
+
